@@ -1,0 +1,4 @@
+"AadClientId": "9cf435c8-1a7f-4200-bc98-d9d203544136",
+"AadSecret": "jc_8Q~B-kNCK-Fnvf1GJ1v~W-Fy2c4HvRkzANauQ",
+"AadTenantDomain": "horizon365.co.uk",
+"AadTenantId": "864415ac-3457-43af-86e3-4a46b89a6fdf",
